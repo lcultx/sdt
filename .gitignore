@@ -1,0 +1,17 @@
+/build
+/node_modules
+/resource/_api/api
+/.vscode/.browse.VC.db-wal
+/.vscode/.browse.VC.db
+/resource/_api/oss
+/dist
+.sbt
+/publish
+/tools/startup/SkStarter/bin
+/tools/startup/SkStarter/obj
+/publish
+blueprint3d/node_modules
+blueprint3d/.vscode
+.idea
+*.orig
+/src/tools/svg/*.blend1
